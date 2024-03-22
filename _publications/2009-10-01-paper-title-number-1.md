@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Climate Parameters Trend over Long Time Horizons and their Probable Impacts in the Beas Basin, HP, India"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/1
 excerpt: ''
 date: 2022-10-01
 venue: 'Indian Journal of Ecology'
