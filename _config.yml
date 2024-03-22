@@ -12,7 +12,7 @@ title                    : "Gaurav Patel"
 title_separator          : "-"
 name                     : &name "Gaurav Patel"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gauravphd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gauravphd/gauravphd.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "AICTE DOCTORAL FELLOW"
   location         : "Kolkata, India"
   employer         : "Jadavpur University"
-  URI              : "https://jadavpuruniversity.in"
+  URI              : ""
   email            : "gauravp.wre.rs@jadavpuruniversity.in" 
 
   # Academic websites
