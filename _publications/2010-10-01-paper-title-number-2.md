@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "MCDM approach to select best CMIP6 Global Climate Models (GCMs) for Dwarkeswer and Kangsabati basin in India"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2023-10-01
+venue: 'American Geophysical Union Fall Meeting (AGU Fall Meeting 2022)'
+paperurl: 'https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=E6-5E-C6-6C-C9-A9-54-5B-24-58-59-5D-20-A9-D8-23'
+citation: 'Patel, G.*, Das, S and Das, R. (2022). MCDM approach to select best CMIP6 Global Climate Models (GCMs) for 
+Dwarkeswer and Kangsabati basin in India. In the American Geophysical Union Fall Meeting (AGU Fall Meeting 2022).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
