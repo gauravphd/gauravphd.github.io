@@ -1,7 +1,7 @@
 ---
 title: "Is the extreme temperature trend changed in last two decades compared to last seven decades? Case study from Eastern India"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/3
 excerpt: ''
 date: 2023-10-01
 venue: 'Journal of Earth System Science'
