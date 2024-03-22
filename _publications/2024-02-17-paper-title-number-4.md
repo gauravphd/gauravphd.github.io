@@ -1,7 +1,7 @@
 ---
 title: "Identification of Best CMIP6 Global Climate Model for Rainfall by Ensemble Implementation of MCDM Methods and Statistical Inference."
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/4
 excerpt: ''
 date: 2023-02-17
 venue: 'Water Resources Management'
