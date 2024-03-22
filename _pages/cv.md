@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D| Jadavpur University, Kolkata, West Bengal, 2024 (expected)
-* M.Tech| National Institute of Technology, Hamirpur, Himachal Pradesh, 2020
-* B.Tech| Tezpur University, Assam, 2018
+* Ph.D Jadavpur University, Kolkata, West Bengal, 2024 (expected)
+* M.Tech National Institute of Technology, Hamirpur, Himachal Pradesh, 2020
+* B.Tech Tezpur University, Assam, 2018
 
 Work experience
 ======
