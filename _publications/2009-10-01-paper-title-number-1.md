@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Analysis of Climate Parameters Trend over Long Time Horizons and their Probable Impacts in the Beas Basin, HP, India"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+date: 2022-10-01
+venue: 'Indian Journal of Ecology'
+paperurl: 'https://doi.org/10.55362/IJE/2022/3621'
+citation: 'Patel, G., and Tripura, J.* (2022). Analysis of Climate Parameters Trend over Long Time Horizons and their Probable Impacts in the Beas Basin, HP, India. Indian Journal of Ecology. 49(3), 954-963.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
