@@ -1,7 +1,7 @@
 ---
 title: "MCDM approach to select best CMIP6 Global Climate Models (GCMs) for Dwarkeswer and Kangsabati basin in India"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2
 excerpt: ''
 date: 2022-10-01
 venue: 'American Geophysical Union Fall Meeting (AGU Fall Meeting)'
