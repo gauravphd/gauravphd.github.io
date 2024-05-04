@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D -Jadavpur University, Kolkata, West Bengal, 2024 (expected)
-* M.Tech -National Institute of Technology, Hamirpur, Himachal Pradesh, 2020
-* B.Tech -Tezpur University, Assam, 2018
+* M.Tech (WRE) -National Institute of Technology, Hamirpur, Himachal Pradesh, 2020
+* B.Tech (CE) -Tezpur University, Assam, 2018
 
 Work experience
 ======
