@@ -1,6 +1,6 @@
 ---
 title: "Determine the best method for analyzing long-term (120 years) annual and 
-seasonal rainfall trends in four east India river basins. "
+seasonal rainfall trends in four east India river basins "
 collection: publications
 permalink: /publication/7
 excerpt: ''
