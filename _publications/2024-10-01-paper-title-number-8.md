@@ -1,5 +1,5 @@
 ---
-title: "Accuracy of historical precipitation from CMIP6 global climate models under diversified climatic features over India. "
+title: "Accuracy of historical precipitation from CMIP6 global climate models under diversified climatic features over India "
 collection: publications
 permalink: /publication/8
 excerpt: ''
