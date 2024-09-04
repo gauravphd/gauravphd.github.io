@@ -1,5 +1,5 @@
 ---
-title: "Identification of Best CMIP6 Global Climate Model for Rainfall by Ensemble Implementation of MCDM Methods and Statistical Inference."
+title: "Identification of Best CMIP6 Global Climate Model for Rainfall by Ensemble Implementation of MCDM Methods and Statistical Inference"
 collection: publications
 permalink: /publication/4
 excerpt: ''
