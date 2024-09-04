@@ -1,5 +1,5 @@
 ---
-title: "Influence of normalization techniques in CMIP model selection using an MCDM method MOORA."
+title: "Influence of normalization techniques in CMIP model selection using an MCDM method MOORA"
 collection: publications
 permalink: /publication/5
 excerpt: ''
